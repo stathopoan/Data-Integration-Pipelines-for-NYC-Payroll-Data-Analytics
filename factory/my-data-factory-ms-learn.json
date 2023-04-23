@@ -1,0 +1,9 @@
+{
+	"name": "my-data-factory-ms-learn",
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "55b8e9e1-251a-44f5-93d6-0ce33e8b3da1",
+		"tenantId": "b2748d0a-856e-4184-bda8-831f9ffa8a48"
+	}
+}
